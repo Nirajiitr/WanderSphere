@@ -223,7 +223,8 @@ body.nav-active{
 }
 
 .preloader .img{
-  animation: bounce 3050ms ease-in-out ;
+  animation: bounce 1200ms ease-in ;
+  
 }
 .preloader-inner{
   position: relative;
@@ -241,10 +242,11 @@ body.nav-active{
 }
 
 @keyframes bounce {
-  0% {transform: translateY(-100px);}
-  100% {transform: translateY(-10px);}
+  0% {transform: translateY(100%);}
+  100% {transform: translateY(-40px);}
   
 }
+
  
   .header .container{
     display: flex;

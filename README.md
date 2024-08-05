@@ -16,6 +16,10 @@ This project is built using the following technologies:
 - **CSS3**: For styling and making the website visually appealing.
 - **JavaScript**: For adding interactive elements to enhance user experience.
 
+## Live Demo
+
+Check out the live version of WanderSphere: [WanderSphere Live](https://nirajiitr.github.io/WanderSphere/)
+
 ## Installation
 
 To run this project locally, follow these steps:
