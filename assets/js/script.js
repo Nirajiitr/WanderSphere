@@ -2,7 +2,7 @@ const preloader = document.querySelector(".preloader")
 window.addEventListener("load", ()=>{
     setTimeout(()=>{
         preloader.classList.add("remove")
-    }, 3005)
+    }, 1200)
    
 })
 
